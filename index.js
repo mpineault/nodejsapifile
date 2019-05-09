@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         'jpg',
         'pdf',
         'png',
-        'xslx'
+        'xlsx'
     ];
 
     // Check if the right request is coming through for the file type
